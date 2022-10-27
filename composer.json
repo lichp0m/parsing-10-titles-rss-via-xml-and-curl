@@ -1,0 +1,9 @@
+{
+
+"require": {
+"imangazaliev/didom": "^2.0",
+"ext-simplexml": "*",
+"ext-curl": "*"
+}
+}
+
